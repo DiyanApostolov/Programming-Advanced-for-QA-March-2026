@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="01.Students/01.Students.csproj" />
+  <Project Path="02.Articles/02.Articles.csproj" />
+  <Project Path="03.TeamworkProjects/03.TeamworkProjects.csproj" />
+  <Project Path="04.PokemonTrainer/04.PokemonTrainer.csproj" Id="e38b717d-473b-4b81-8bac-3decefd293bd" />
+</Solution>
